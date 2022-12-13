@@ -180,7 +180,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Libev_Client is not set
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Libev_Server is not set
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Simple_Obfs is not set
-          CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan=y
+          # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan is not set
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray_Plugin is not set
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Xray=y
 
